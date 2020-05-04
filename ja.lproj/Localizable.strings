@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+  Massicot
+
+  Created by vaneffen on 25/10/2015.
+  Copyright © 2015 EMG. All rights reserved.
+*/
+
+
+WORLD_RANK="序列: #";
+
+MY_SCORE="得点: ";
+
+HISTOIRE_A="ゴールに近いです!";
+
+HISTOIRE_B="究極のマシコットは真実を保持しています!";
+
+MODE_TEMPS="100秒未満で60金貨";
+
+MODE_COINS="100未満のラウンドで30金貨!";
+
+MODE_ERREUR="間違いは許されません";
+
+MODE_BATTLE="バトルモード";
+
+YOU_ONLY="だけ ";
+
+LEFT_SOLVE=" マシコット 最後まで";
+
+COINS_GET=" 金貨 最後まで!";
+
+WAIT_A="待つ ";
+
+WAIT_B=" 分";
+

@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+  Massicot
+
+  Created by vaneffen on 25/10/2015.
+  Copyright © 2015 EMG. All rights reserved.
+*/
+
+
+WORLD_RANK="WM: #";
+
+MY_SCORE="Punktestand: ";
+
+HISTOIRE_A="Wow! Du bist viel näher an das ultimative Massicot!";
+
+HISTOIRE_B="Wer das ultimative Massicot loest, kennt die Wahrheit.";
+
+MODE_TEMPS="Hol dir 100 Muenzen in weniger als 60 Sekunden.";
+
+MODE_COINS="Hol dir 100 Muenzen in weniger als 30 Runden.";
+
+MODE_ERREUR="Loese jetzt 30 Massicots ohne Fehler!";
+
+MODE_BATTLE="Krieg 100 Muenzen bevor dein Gegner es tut!";
+
+YOU_ONLY="Sie haben nur ";
+
+LEFT_SOLVE=" Massicots uebrig...";
+
+COINS_GET=" Muenzen noch zu kriegen!";
+
+WAIT_A="Warte ";
+
+WAIT_B=" Minuten";
+

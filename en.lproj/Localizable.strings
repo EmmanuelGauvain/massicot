@@ -1,0 +1,35 @@
+/* 
+  Localizable.strings
+  Massicot
+
+  Created by vaneffen on 25/10/2015.
+  Copyright © 2015 EMG. All rights reserved.
+*/
+
+
+WORLD_RANK="World Rank : #";
+
+MY_SCORE="My score : ";
+
+HISTOIRE_A="Wow! You're getting closer to the Ultimate Massicot!";
+
+HISTOIRE_B="A step closer to the Ultimate Massicot!";
+
+MODE_TEMPS="Get 100 coins in less than 60 seconds.";
+
+MODE_COINS="Get 100 coins in less than 30 rounds. Be fast enough!";
+
+MODE_ERREUR="Solve 30 Massicots without any error!";
+
+MODE_BATTLE="Get 100 coins before your opponent does.";
+
+YOU_ONLY="You have only ";
+
+LEFT_SOLVE=" Massicots left to solve...";
+
+COINS_GET=" coins left to get!";
+
+WAIT_A="Wait ";
+
+WAIT_B=" minutes";
+

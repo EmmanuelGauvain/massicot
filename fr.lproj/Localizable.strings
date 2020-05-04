@@ -1,0 +1,34 @@
+/* 
+  Localizable.strings
+  Massicot
+
+  Created by vaneffen on 25/10/2015.
+  Copyright © 2015 EMG. All rights reserved.
+*/
+
+
+WORLD_RANK="Rang mondial: #";
+
+MY_SCORE="Mon score: ";
+
+HISTOIRE_A="Wow! On s'approche du Massicot Ultime!";
+
+HISTOIRE_B="Le Massicot Ultime detient la clef de l'univers!";
+
+MODE_TEMPS="Amasse 100 pieces en moins de 60s.";
+
+MODE_COINS="Amasse 100 pieces en moins de 30 coups. Sois rapide!";
+
+MODE_ERREUR="Aucune erreur permise!";
+
+MODE_BATTLE="Amasse 100 pieces avant ton adversaire...";
+
+YOU_ONLY="Plus que ";
+
+LEFT_SOLVE=" Massicots a resoudre...";
+
+COINS_GET=" pieces a rassembler!";
+
+WAIT_A="Encore ";
+
+WAIT_B=" min";
